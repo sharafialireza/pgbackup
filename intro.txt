@@ -1,1 +1,1 @@
-This is an intro to git quickstart
+This is for linuxacademy python backup cli command tool to backup postgres db.
